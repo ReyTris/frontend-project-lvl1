@@ -7,3 +7,4 @@ brain-even: <a href="https://asciinema.org/a/hx8HBeA5S2FeZm3qY0IbMDUyq" target="
 brain-calc: <a href="https://asciinema.org/a/9wpqYHlMUxAvRQ4zSsYWzooYr" target="_blank"><img src="https://asciinema.org/a/9wpqYHlMUxAvRQ4zSsYWzooYr.svg" /></a>
 brain-gcd: <a href="https://asciinema.org/a/WXGfips2vyIzn6V8zanVdgybg" target="_blank"><img src="https://asciinema.org/a/WXGfips2vyIzn6V8zanVdgybg.svg" /></a>
 brain-progression: <a href="https://asciinema.org/a/1OguEqIlzpG5QDKKQfSswfYSH" target="_blank"><img src="https://asciinema.org/a/1OguEqIlzpG5QDKKQfSswfYSH.svg" /></a>
+brain-prime: <a href="https://asciinema.org/a/tVhBaz6fXHRUcXUGtpswXPAzU" target="_blank"><img src="https://asciinema.org/a/tVhBaz6fXHRUcXUGtpswXPAzU.svg" /></a>
