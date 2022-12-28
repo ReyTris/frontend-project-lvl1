@@ -1,4 +1,4 @@
-export const gameQuestion = 'What is the result of the expression?';
+export const gameQuestion = 'What number is missing in the progression?';
 
 export const brainProgression = () => {
   const stepProgress = Math.floor(Math.random() * 11);
